@@ -32,3 +32,11 @@ Scala 2.12.7
 2. Refresh Rentable list : Use 0 to refresh list
 3. Rent a vehicle : Rents vehicle and returns the change
 4. Added Use case diagram
+
+
+# To run the code
+
+Rent.scala file needs to be executed and user needs to input their choices through the console. Run the main.
+0 = refresh the list in case threshold of vehicle renting time has passed
+999 = quit
+threshold: time duration for renting the car
